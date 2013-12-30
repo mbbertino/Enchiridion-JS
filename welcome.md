@@ -1,3 +1,5 @@
+![TIY icon](images/tiy.png)
+
 ## Welcome to the Front-end Engineering Enchiridion
 
 ###Enchiridion? 
@@ -6,3 +8,6 @@
 
 A wealth of topics are covered throughout the entirety of The Iron Yard's Front-end engineering course each with many great points of reference that can easily get lost in the fog. We wanted to create a canonical point of reference that students can easily refer back to. Beginning a path in programming can have many forks in the road, and this guide is a means to help point you in the right direction.
 
+#### Pull Requests
+
+While this guide was originally intended for TIY students, our respect for open source work and appreciation for its impact on the community means we would love to review any contribuitions you have to offer in order to make this guide as good as it can be. 
