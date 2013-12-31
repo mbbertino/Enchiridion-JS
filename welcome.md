@@ -10,4 +10,4 @@ A wealth of topics are covered throughout the entirety of The Iron Yard's Front-
 
 #### Pull Requests
 
-While this guide was originally intended for TIY students, our respect for open source work and appreciation for its impact on the community means we would love to review any contribuitions you have to offer in order to make this guide as good as it can be. 
+While this guide was originally intended for TIY students, our respect for open source work and appreciation for its impact on the community means we would love to review any contribuitions you have to offer in order to make this guide as good as it can be. 	
