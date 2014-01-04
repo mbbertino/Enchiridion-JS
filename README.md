@@ -13,4 +13,4 @@ A huge number of topics are covered throughout during The Iron Yard's Frontend E
 
 #### Pull Requests
 
-While this guide was originally intended for TIY students, our hope it is useful to all. As such, we would love to review any contribuitions you have to offer in order to make this guide as good as it can be. 
+While this guide was originally intended for TIY students, our hope is that it is useful to all. As such, we would love to review any contribuitions you have to offer in order to make this guide as good as it can be. 
