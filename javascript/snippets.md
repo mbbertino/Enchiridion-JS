@@ -6,4 +6,4 @@ This entry contains snippets and links to collections of snippets. These are gen
 `snippets go here`
 
 ## Resources
-* A random assortment of useful snippets, ranging from trivial to wise: [45 Useful JavaScript Tips, Tricks and Best Practices](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices)
+* [45 Useful JavaScript Tips, Tricks and Best Practices](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices) - A random assortment of useful snippets, ranging from trivial to wise.
